@@ -1,0 +1,14 @@
+layout_spectrum: 0.9391714595258236
+typography_spectrum: 0.2806880660355091
+color:
+  brandStrength: 0.016593629494309425
+  lightness: 0.12828076793812215
+  saturation: 0.9044966297224164
+  rhythmicContrast: 0.0844546954613179
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: "Maggie's Food Favorites"
