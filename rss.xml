@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Maggie's Food Favorites]]></title>
+        <description><![CDATA[Maggie's Food Favorites]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 01:08:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thai Peanut Quinoa Salad - Cooking Classy]]></title>
+            <description><![CDATA[<article><h1>Thai Peanut Quinoa Salad - Cooking Classy</h1><p>This is a crazy thing, but I just tried pad thai for the very first time, just a few days ago. And I hated it. Okay okay, it had a few good things going on but the first problem may have been it lacked the most of what I wanted it to have.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40149ec73ad363bc445031c343002a41254b2d23.jpg"></article>]]></description>
+            <link>http://www.cookingclassy.com/2013/07/thai-peanut-quinoa-salad/</link>
+            <guid isPermaLink="false">28a2947c-2166-41ac-b968-2f8c5538c951</guid>
+            <pubDate>Thu, 28 Apr 2016 01:08:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
