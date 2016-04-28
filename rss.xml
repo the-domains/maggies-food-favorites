@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Maggie's Food Favorites]]></title>
         <description><![CDATA[Maggie's Food Favorites]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maggies-food-favorites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 01:08:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 01:12:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maggies-food-favorites/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Bean Quinoa Salad - Damn Delicious]]></title>
+            <description><![CDATA[<article><h1>Black Bean Quinoa Salad - Damn Delicious</h1><p>A light and healthy quinoa salad tossed in a refreshing orange vinaigrette, chockfull of protein and fiber! Greetings from Cabo! After a very emotional departure with Butters, a 4AM wake up call, and spending 10 hours at the airport, we finally made it! So please forgive me if this post is a bit erratic and short.</p><img src="http://damndelicious.net/wp-content/uploads/2014/05/IMG_0560edit2.jpg"></article>]]></description>
+            <link>http://damndelicious.net/2014/05/28/black-bean-quinoa-salad/</link>
+            <guid isPermaLink="false">e2451ac9-2cab-4eca-bcd3-d73e5489621e</guid>
+            <pubDate>Thu, 28 Apr 2016 01:10:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thai Peanut Quinoa Salad - Cooking Classy]]></title>
             <description><![CDATA[<article><h1>Thai Peanut Quinoa Salad - Cooking Classy</h1><p>This is a crazy thing, but I just tried pad thai for the very first time, just a few days ago. And I hated it. Okay okay, it had a few good things going on but the first problem may have been it lacked the most of what I wanted it to have.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40149ec73ad363bc445031c343002a41254b2d23.jpg"></article>]]></description>
